@@ -27,7 +27,7 @@ Runtime rule processing engine supporting AND/OR conditions and dynamic operands
 ---
 
 ## 🧠 Leadership Focus
-- Led teams of 6–10 engineers
+- Led teams of 4-5 engineers
 - Reduced production incidents by 30%
 - Improved deployment frequency
 - Mentored engineers to senior level
