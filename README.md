@@ -50,7 +50,7 @@ I'm a **Team Lead — Software Development** passionate about leading engineerin
 
 ### 📜 Certifications
 
-![Azure AI Engineer](https://img.shields.io/badge/Microsoft_Certified-Azure_AI_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+[![Azure AI Engineer](https://img.shields.io/badge/Microsoft_Certified-Azure_AI_Engineer_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/api/credentials/share/en-us/KavitaPandit-4786/C0846F182767FB76?sharingId)
 
 ---
 
